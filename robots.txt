@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-o3pg7j.infiniteloopback.net/sitemap.xml
